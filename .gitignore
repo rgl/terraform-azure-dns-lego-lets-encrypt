@@ -1,0 +1,6 @@
+tmp/
+*terraform*
+tfplan
+secrets*
+*.log
+*.pem
